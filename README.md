@@ -1,1 +1,1 @@
-# untitled
+The first assigment withing my Java Class of 2024 at West Ukrainian University
